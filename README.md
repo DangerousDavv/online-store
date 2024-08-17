@@ -10,7 +10,7 @@ npm install
 
 To start the project, run:
 
-npm start
+npm run dev
 
 
 Let me know if you need any other details added to the README!
