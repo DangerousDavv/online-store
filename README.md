@@ -1,11 +1,16 @@
-Installation
+# Backroads
+
+## Installation
+
 To install the necessary dependencies, run:
 
 npm install
 
-Start
+## Start
+
 To start the project, run:
 
-npm run dev
+npm start
+
 
 Let me know if you need any other details added to the README!
